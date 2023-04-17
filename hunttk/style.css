@@ -1,0 +1,16 @@
+.bouton {
+    background-color: red;
+    color : #fff;
+    cursor : pointer;
+    border-radius : 30px;
+    padding : 1em;
+    font-size : 2em;
+}
+.bouton:hover {
+    background-color: #fff;
+    color : red;
+}
+main{
+    display : flex;
+    column-gap : 10px;
+}
